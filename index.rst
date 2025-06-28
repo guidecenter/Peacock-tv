@@ -7,7 +7,7 @@ Peacock TV is a popular streaming service from NBCUniversal that offers a wide r
 .. raw:: html
 
     <div style="text-align: center; margin: 30px 0;">
-        <a href="https://fm.ci/?aHR0cHM6Ly9wZWFjb2NrdHZoZWxwbGluZS5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q="background-color:#1e90ff; color:#ffffff; padding:14px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; display:inline-block;">
+        <a href="https://fm.ci/?aHR0cHM6Ly9wZWFjb2NrdHZoZWxwbGluZS5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=" style= "background-color:#1e90ff; color:#ffffff; padding:14px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; display:inline-block;">
             Activate PeacockTV
         </a>
     </div>
