@@ -65,16 +65,20 @@ Tips for a Smooth Experience
 FAQs
 ====
 
-**Q: Why isn’t my activation code working?**  
+**Q: Why isn’t my activation code working?**
+
 A: It may have expired. Restart the Peacock app to generate a new code.
 
 **Q: Can I sign in on multiple devices?**  
+
 A: Yes, depending on your plan, Peacock allows sign-in on up to 3 devices simultaneously.
 
 **Q: Is PeacockTV.com/tv secure?**  
+
 A: Yes, it’s the official and secure sign-in page for device activation.
 
 **Q: What if I don’t have an account?**  
+
 A: You can create a free Peacock account during the activation process at PeacockTV.com/tv.
 
 Conclusion
